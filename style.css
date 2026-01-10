@@ -64,3 +64,17 @@ button{
  .operator{
   color:#6dee0a;
  }
+ .owner{
+  color:#ffffff;
+  text-align: center;
+  color: #ff0008;
+  cursor: no-drop;
+ }
+ .workinprogress{
+  text-align: center;
+  color: #fbff00;
+  font-size: 14px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  cursor: wait;
+ }
